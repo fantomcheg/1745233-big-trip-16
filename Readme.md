@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Дмитрий Биксилеев](https://up.htmlacademy.ru/ecmascript/16/user/1745233).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав ](https://htmlacademy.ru/profile/whatislove).
 
 ---
 
